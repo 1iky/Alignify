@@ -32,15 +32,15 @@ Tools Required:
 
 ## Installation
 1. Clone the repository:
-`git clone git@github.com:UWO-CS-3307/project-deliverable-3-lily.git`
+`git clone git@github.com:1iky/Alignify.git`
 2. Navigate to the project directory:
-   `cd project-deliverable-3-lily`
+   `cd Alignify`
 
 ## How to Run
 To run this project:
 1. Open the project in Qt Creator:
    * Launch Qt Creator
-   * Open the `calendar` folder in `project-deliverable-3-lily`
+   * Open the `calendar` folder in `Alignify`
    * Select the `calendar.pro` file
 2. Configure the build
 3. Build the project:
